@@ -3,7 +3,7 @@ class MiFooter
   connectedCallback() {
     this.innerHTML = /* html */
       `&copy; 2021
-      Miguel Alberto Martinez Padilla IC-52M`;
+      De la Rosa Arguello Brenda`;
   }
 }
 customElements.define(
