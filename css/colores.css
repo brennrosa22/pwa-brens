@@ -1,9 +1,9 @@
 html {
     --colContenido: black;
-    --colContenidoFondo: #D5D8DC 
+    --colContenidoFondo: #f8bbd0 
     ;
-    --colPrimario: #D5D8DC ;
-    --colPrimarioFondo: #48C9B0   ;
+    --colPrimario: #f8bbd0;
+    --colPrimarioFondo: #ad1457    ;
     --colActive: #4646462c;
     --colCampoSinFoco: gray;
     --colCampoFoco: #01579B;
